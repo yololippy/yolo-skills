@@ -1,0 +1,3 @@
+interface:
+  display_name: "分组提交工作流"
+  short_description: "跨仓库先给拆分结论，确认后按职责与依赖顺序提交并汇报结果"
